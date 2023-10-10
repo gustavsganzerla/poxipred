@@ -1,0 +1,525 @@
+Description,Epitope,Epitope Type
+mRNA-capping enzyme catalytic subunit,DDTFLTTSVYN,CD8
+mRNA-capping enzyme catalytic subunit,DTFLTTSVY,CD8
+mRNA-capping enzyme catalytic subunit,TFLTTSVY,CD8
+mRNA-capping enzyme catalytic subunit,LTTSVYNY,CD8
+mRNA-capping enzyme catalytic subunit,TTSVYNYIYSLLD,CD4
+Poly(A) polymerase catalytic subunit,NRQIANILE,CD8
+Poly(A) polymerase catalytic subunit,RQIANILENY,CD8
+Poly(A) polymerase catalytic subunit,IANILENYLG,CD4
+Poly(A) polymerase catalytic subunit,ANILENYLG,CD4
+Poly(A) polymerase catalytic subunit,RYPSLNEYHTLKSQ,CD8
+Serine/threonine-protein kinase,KEINSLECQWESID,CD4
+Serine/threonine-protein kinase,EINSLECQWES,CD4
+Serine/threonine-protein kinase,INSLECQWESI,CD8
+Serine/threonine-protein kinase,NSLECQWE,CD8
+Serine/threonine-protein kinase,SLECQWESIDDN,CD8
+S-S bond formation pathway protein,ENPVRINTLYNV,CD8
+S-S bond formation pathway protein,NPVRINTL,CD8
+S-S bond formation pathway protein,PVRINTLYNVFVE,CD8
+S-S bond formation pathway protein,VRINTLYNVFV,CD8
+S-S bond formation pathway protein,RINTLYNVFVERY,CD8
+Leukocyte surface antigen CD47,KIFLLLLLCYYPVL,CD8
+Leukocyte surface antigen CD47,IFLLLLLCYYPVLS,CD8
+Leukocyte surface antigen CD47,FLLLLLCYYPVLS,CD8
+Leukocyte surface antigen CD47,LLLLLCYYPV,CD8
+Leukocyte surface antigen CD47,LLLLCYYPVLSKFI,CD8
+DNA-directed RNA polymerase 35 kDa subunit,YREEKTIAIE,CD8
+DNA-directed RNA polymerase 35 kDa subunit,REEKTIAIELNP,CD8
+DNA-directed RNA polymerase 35 kDa subunit,EEKTIAIELNP,CD8
+DNA-directed RNA polymerase 35 kDa subunit,EKTIAIELNP,CD8
+DNA-directed RNA polymerase 35 kDa subunit,KTIAIELNP,CD8
+DNA-directed RNA polymerase,KKNTVSEMDQILG,CD8
+DNA-directed RNA polymerase,KNTVSEMDQIL,CD8
+DNA-directed RNA polymerase,NTVSEMDQILGY,CD4
+DNA-directed RNA polymerase,TVSEMDQILG,CD8
+DNA-directed RNA polymerase,SEMDQILG,CD8
+SPV097 putative IMV membrane protein morphogenesis,SCYFAILKSIG,CD8
+SPV097 putative IMV membrane protein morphogenesis,FAILKSIGGLAL,CD8
+SPV097 putative IMV membrane protein morphogenesis,AILKSIGGL,CD8
+SPV097 putative IMV membrane protein morphogenesis,ILKSIGGLAL,CD8
+Intermediate transcription factor 3 small subunit,FDPVPDLNLEA,CD8
+Intermediate transcription factor 3 small subunit,DPVPDLNLEAH,CD8
+Intermediate transcription factor 3 small subunit,PVPDLNLEAHIE,CD8
+Intermediate transcription factor 3 small subunit,VPDLNLEAHIE,CD8
+Intermediate transcription factor 3 small subunit,DLNLEAHIEL,CD8
+DNA-directed RNA polymerase 19 kDa subunit,ADSEDIVEYS,CD8
+DNA-directed RNA polymerase 19 kDa subunit,EDIVEYSSNDEEDS,CD8
+DNA-directed RNA polymerase 19 kDa subunit,IVEYSSNDEEDS,CD8
+DNA-directed RNA polymerase 19 kDa subunit,VEYSSNDEE,CD8
+DNA-directed RNA polymerase 19 kDa subunit,EYSSNDEE,CD8
+Nucleoside triphosphatase I,SSYHAAYIDYAL,CD4
+Nucleoside triphosphatase I,AAYIDYALRVT,CD8
+Nucleoside triphosphatase I,YIDYALRVTE,CD4
+Nucleoside triphosphatase I,IDYALRVT,CD8
+Nucleoside triphosphatase I,DYALRVTESMTDT,CD8
+Early transcription factor 70 kDa subunit,NLGIVKLF,CD8
+Early transcription factor 70 kDa subunit,LGIVKLFNNHVNNI,CD8
+Early transcription factor 70 kDa subunit,GIVKLFNNH,CD8
+Early transcription factor 70 kDa subunit,IVKLFNNHVNNI,CD8
+Early transcription factor 70 kDa subunit,VKLFNNHVNN,CD8
+DNA topoisomerase,LYYDGKLFFDT,CD8
+DNA topoisomerase,YYDGKLFF,CD8
+DNA topoisomerase,YDGKLFFDTDLTKQ,CD8
+DNA topoisomerase,DGKLFFDTDL,CD8
+DNA topoisomerase,GKLFFDTDLTK,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,ESKESVLIELIP,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,KESVLIELIP,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,ESVLIELIPKI,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,LIELIPKI,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,ELIPKIRHYLL,CD8
+DNA-directed RNA polymerase 147 kDa polypeptide,AVISKVTYSLY,CD8
+DNA-directed RNA polymerase 147 kDa polypeptide,ISKVTYSLYNQE,CD8
+DNA-directed RNA polymerase 147 kDa polypeptide,SKVTYSLYNQE,CD4
+DNA-directed RNA polymerase 147 kDa polypeptide,KVTYSLYNQ,CD8
+DNA-directed RNA polymerase 147 kDa polypeptide,VTYSLYNQEEINA,CD4
+DNA-directed RNA polymerase subunit,NVKYLAKIL,CD8
+DNA-directed RNA polymerase subunit,YLAKILCLKT,CD8
+DNA-directed RNA polymerase subunit,LAKILCLKTEILRN,CD4
+DNA-directed RNA polymerase subunit,AKILCLKTE,CD8
+DNA-directed RNA polymerase subunit,KILCLKTEILR,CD4
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,EPLSIDKPFMY,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,PLSIDKPFMYF,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,LSIDKPFMYFDEI,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,SIDKPFMYFDEINN,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,IDKPFMYFDEINNE,CD8
+Thymidine kinase,YIIMSCGFIHLIL,CD8
+Thymidine kinase,IIMSCGFIHL,CD8
+Thymidine kinase,MSCGFIHLILGPM,CD8
+Thymidine kinase,SCGFIHLILGPM,CD8
+Thymidine kinase,CGFIHLILGP,CD8
+Late transcription factor 1,SLRIKIDKL,CD8
+Late transcription factor 1,IDKLRQIV,CD8
+Late transcription factor 1,DKLRQIVA,CD8
+Late transcription factor 1,KLRQIVAY,CD8
+Late transcription factor 1,LRQIVAYFSE,CD4
+Assembly protein G7,IDQQKQSVIYNI,CD8
+Assembly protein G7,QQKQSVIYNIIS,CD8
+Assembly protein G7,QKQSVIYNIIS,CD8
+Assembly protein G7,KQSVIYNII,CD8
+Assembly protein G7,QSVIYNIIS,CD8
+DNA-directed RNA polymerase 7 kDa subunit,FQLVCSTCGRDIS,CD8
+RNA helicase NPH-II,DNHLPNIFY,CD8
+RNA helicase NPH-II,NHLPNIFYFPNC,CD8
+RNA helicase NPH-II,HLPNIFYFPNCINT,CD8
+RNA helicase NPH-II,LPNIFYFPNCI,CD8
+RNA helicase NPH-II,PNIFYFPNCINT,CD8
+Ribonucleoside-diphosphate reductase,YVIKRSGKKE,CD8
+Ribonucleoside-diphosphate reductase,IKRSGKKE,CD8
+Ribonucleoside-diphosphate reductase,KRSGKKELLSIE,CD8
+Ribonucleoside-diphosphate reductase,RSGKKELLSI,CD8
+Ribonucleoside-diphosphate reductase,SGKKELLSIEK,CD8
+Protein OPG079,KYYLMYLNILKMR,CD8
+Protein OPG079,YYLMYLNILK,CD8
+Protein OPG079,YLMYLNILKMRK,CD8
+Protein OPG079,MYLNILKMRK,CD8
+Protein OPG079,YLNILKMRKS,CD8
+DNA polymerase,KCINWFESRGDRR,CD8
+DNA polymerase,CINWFESRGDRRF,CD8
+DNA polymerase,INWFESRGDRRF,CD8
+DNA polymerase,NWFESRGDRRF,CD8
+DNA polymerase,WFESRGDRRFIF,CD8
+DNA-directed RNA polymerase 30 kDa polypeptide,LSHDEYIYN,CD8
+DNA-directed RNA polymerase 30 kDa polypeptide,SHDEYIYN,CD8
+DNA-directed RNA polymerase 30 kDa polypeptide,HDEYIYNYSS,CD8
+DNA-directed RNA polymerase 30 kDa polypeptide,IYNYSSNMAT,CD4
+Deoxyuridine 5'-triphosphate nucleotidohydrolase,SLYVKCVKLSNNA,CD8
+Deoxyuridine 5'-triphosphate nucleotidohydrolase,LYVKCVKLSNNAI,CD8
+Deoxyuridine 5'-triphosphate nucleotidohydrolase,YVKCVKLS,CD8
+Deoxyuridine 5'-triphosphate nucleotidohydrolase,CVKLSNNAIIPNR,CD8
+Deoxyuridine 5'-triphosphate nucleotidohydrolase,VKLSNNAIIPNRST,CD8
+E3 ubiquitin-protein ligase LAP,CWICKDDYSIE,CD8
+E3 ubiquitin-protein ligase LAP,ICKDDYSIEKNYC,CD8
+E3 ubiquitin-protein ligase LAP,CKDDYSIEKNYC,CD8
+E3 ubiquitin-protein ligase LAP,KDDYSIEKNYCN,CD8
+E3 ubiquitin-protein ligase LAP,DDYSIEKNYCNC,CD8
+SPV003 MHC class I alpha chain-like protein P32231,ITKAIVILSIITAY,CD8
+SPV003 MHC class I alpha chain-like protein P32231,TKAIVILSIIT,CD8
+SPV003 MHC class I alpha chain-like protein P32231,KAIVILSIITA,CD8
+SPV003 MHC class I alpha chain-like protein P32231,AIVILSIIT,CD8
+SPV003 MHC class I alpha chain-like protein P32231,IVILSIITAY,CD8
+SPV086 mRNA capping enzyme small subunit,DKITRNIREGIHI,CD4
+SPV086 mRNA capping enzyme small subunit,KITRNIREGIHIL,CD8
+SPV086 mRNA capping enzyme small subunit,ITRNIREG,CD8
+SPV086 mRNA capping enzyme small subunit,TRNIREGIHI,CD8
+SPV086 mRNA capping enzyme small subunit,RNIREGIH,CD8
+Uncharacterized protein,HLKNEVNNNM,CD8
+Uncharacterized protein,LKNEVNNNMFV,CD8
+Uncharacterized protein,KNEVNNNMFVFTL,CD8
+Uncharacterized protein,NEVNNNMFVFTLC,CD8
+Uncharacterized protein,CVSVKSISI,CD8
+Uncharacterized protein,VSVKSISI,CD8
+Uncharacterized protein,SVKSISISMD,CD8
+Uncharacterized protein,TTTSQIIIDNDM,CD8
+Uncharacterized protein,TTSQIIIDN,CD8
+Uncharacterized protein,TSQIIIDND,CD8
+Uncharacterized protein,SQIIIDNDMS,CD8
+Uncharacterized protein,QIIIDNDMSN,CD8
+"SPV012 putative integral membrane protein, apoptosis regulator",YKKYNSNVCIR,CD8
+"SPV012 putative integral membrane protein, apoptosis regulator",KKYNSNVCIRNVLY,CD8
+"SPV012 putative integral membrane protein, apoptosis regulator",YNSNVCIRNVLYVY,CD8
+"SPV012 putative integral membrane protein, apoptosis regulator",NSNVCIRNVLYVY,CD8
+"SPV012 putative integral membrane protein, apoptosis regulator",SNVCIRNVLYVYL,CD8
+SPV008 interferon gamma receptor-like protein,HFIFIILSL,CD8
+SPV008 interferon gamma receptor-like protein,FIFIILSLS,CD8
+SPV008 interferon gamma receptor-like protein,IFIILSLSFVVNA,CD8
+SPV008 interferon gamma receptor-like protein,FIILSLSFV,CD8
+SPV008 interferon gamma receptor-like protein,IILSLSFVV,CD8
+SPV007 A52R-like family protein,NSYIVIKNSLRDY,CD8
+SPV007 A52R-like family protein,SYIVIKNS,CD8
+SPV007 A52R-like family protein,YIVIKNSLRDYRS,CD8
+SPV007 A52R-like family protein,IVIKNSLRDY,CD8
+SPV007 A52R-like family protein,VIKNSLRDYR,CD8
+SPV001 A52R-like family protein,NYIYRNDFLDN,CD8
+SPV001 A52R-like family protein,YIYRNDFL,CD8
+SPV001 A52R-like family protein,IYRNDFLD,CD8
+SPV001 A52R-like family protein,YRNDFLDNDD,CD8
+SPV001 A52R-like family protein,DFLDNDDI,CD8
+SPV146 G protein-coupled CC chemokine receptor-like protein,TSPTNSTMLT,CD8
+SPV146 G protein-coupled CC chemokine receptor-like protein,SPTNSTML,CD8
+SPV146 G protein-coupled CC chemokine receptor-like protein,TNSTMLTYTTNNY,CD8
+SPV146 G protein-coupled CC chemokine receptor-like protein,NSTMLTYTTNN,CD8
+SPV146 G protein-coupled CC chemokine receptor-like protein,STMLTYTTNN,CD8
+SPV145 putative serpin,VFLKLLQKDGNIVY,CD8
+SPV145 putative serpin,FLKLLQKD,CD8
+SPV145 putative serpin,LKLLQKDG,CD8
+SPV145 putative serpin,KLLQKDGNIVYS,CD8
+SPV145 putative serpin,LLQKDGNIVYSPV,CD8
+SPV143 ankyrin repeat protein,DNIRRIISNIK,CD8
+SPV143 ankyrin repeat protein,NIRRIISNIK,CD8
+SPV143 ankyrin repeat protein,IRRIISNIKQDD,CD8
+SPV143 ankyrin repeat protein,ISNIKQDDNI,CD8
+SPV143 ankyrin repeat protein,NIKQDDNI,CD8
+SPV142 ankyrin repeat protein,VSLYEYISY,CD8
+SPV142 ankyrin repeat protein,LYEYISYADHIEPN,CD4
+SPV142 ankyrin repeat protein,YEYISYADHIEPNV,CD4
+SPV142 ankyrin repeat protein,EYISYADHIEPNVI,CD4
+SPV142 ankyrin repeat protein,ISYADHIEP,CD4
+SPV141 ankyrin repeat protein,LYDYIAYTKSRNIT,CD8
+SPV141 ankyrin repeat protein,YIAYTKSRN,CD8
+SPV141 ankyrin repeat protein,IAYTKSRN,CD8
+SPV141 ankyrin repeat protein,AYTKSRNIT,CD8
+SPV141 ankyrin repeat protein,YTKSRNITLKYVL,CD4
+SPV139 putative EEV host range protein,LLSLFILMYYM,CD8
+SPV139 putative EEV host range protein,LSLFILMY,CD8
+SPV139 putative EEV host range protein,SLFILMYYMPNVI,CD8
+SPV139 putative EEV host range protein,LFILMYYMP,CD8
+SPV139 putative EEV host range protein,FILMYYMPNV,CD8
+SPV137 putative serine/threonine protein kinase DNA replication,SGRGNMFNE,CD8
+SPV137 putative serine/threonine protein kinase DNA replication,GRGNMFNEG,CD8
+SPV137 putative serine/threonine protein kinase DNA replication,GNMFNEGEILIDT,CD8
+SPV137 putative serine/threonine protein kinase DNA replication,NMFNEGEILIDTKR,CD8
+SPV137 putative serine/threonine protein kinase DNA replication,MFNEGEILIDTKR,CD8
+SPV136 kelch-like protein,NSFHSHMID,CD4
+SPV136 kelch-like protein,SFHSHMIDSI,CD4
+SPV136 kelch-like protein,FHSHMIDSITEINN,CD4
+SPV136 kelch-like protein,HSHMIDSIT,CD8
+SPV136 kelch-like protein,SHMIDSIT,CD4
+SPV135 A52R-like family protein,NTNIKFDISIK,CD8
+SPV135 A52R-like family protein,DISIKDDKII,CD8
+SPV135 A52R-like family protein,ISIKDDKIIIVSNT,CD8
+SPV135 A52R-like family protein,SIKDDKIIIV,CD8
+SPV135 A52R-like family protein,IKDDKIIIV,CD8
+Protein OPG181,NVIVDNTFSARDW,CD4
+Protein OPG181,VIVDNTFSARD,CD8
+Protein OPG181,DNTFSARDWDIVDF,CD8
+Protein OPG181,NTFSARDWD,CD8
+Protein OPG181,TFSARDWDIVDFFK,CD8
+SPV132 IFN-alpha/beta-like binding protein,ISIKKYNILL,CD8
+SPV132 IFN-alpha/beta-like binding protein,SIKKYNILLFI,CD8
+SPV132 IFN-alpha/beta-like binding protein,IKKYNILLFII,CD8
+SPV132 IFN-alpha/beta-like binding protein,KKYNILLFIIS,CD8
+SPV132 IFN-alpha/beta-like binding protein,KYNILLFIISFIYC,CD8
+SPV131 VAR B22R homologue,KNIVWLYILLTNV,CD8
+SPV131 VAR B22R homologue,NIVWLYILL,CD8
+SPV131 VAR B22R homologue,IVWLYILLTNVNNI,CD8
+SPV131 VAR B22R homologue,VWLYILLTNV,CD8
+SPV131 VAR B22R homologue,WLYILLTNV,CD8
+SPV129 superoxide dismutase-like protein,DKYYTFNLVKYK,CD8
+SPV129 superoxide dismutase-like protein,YYTFNLVKYK,CD8
+SPV129 superoxide dismutase-like protein,YTFNLVKYKAVC,CD8
+SPV129 superoxide dismutase-like protein,TFNLVKYKAVCVI,CD8
+SPV129 superoxide dismutase-like protein,FNLVKYKAVCVI,CD8
+SPV128 hydroxysteroid dehydrogenase-like protein,SVYAVIGGC,CD8
+SPV128 hydroxysteroid dehydrogenase-like protein,VYAVIGGCGFIG,CD8
+SPV128 hydroxysteroid dehydrogenase-like protein,YAVIGGCGFIGKF,CD8
+SPV128 hydroxysteroid dehydrogenase-like protein,AVIGGCGFIG,CD8
+SPV128 hydroxysteroid dehydrogenase-like protein,IGGCGFIG,CD8
+Uncharacterized protein,DNECISIKIT,CD8
+Uncharacterized protein,ECISIKITSQ,CD8
+Uncharacterized protein,CISIKITSQL,CD8
+Uncharacterized protein,EKTKVFKMIP,CD8
+Uncharacterized protein,TKVFKMIPFF,CD8
+Uncharacterized protein,KVFKMIPFFNGM,CD8
+Uncharacterized protein,VFKMIPFFNGMKI,CD8
+Uncharacterized protein,KMIPFFNGMKI,CD8
+Uncharacterized protein,AKMKLNIN,CD8
+Uncharacterized protein,MKLNINYEIVIVII,CD8
+Uncharacterized protein,KLNINYEIVI,CD8
+Uncharacterized protein,LNINYEIVIVIIL,CD8
+Uncharacterized protein,NINYEIVIVIIL,CD8
+C-type lectin domain-containing protein,KLNRQTVNK,CD8
+C-type lectin domain-containing protein,LNRQTVNKFKR,CD8
+C-type lectin domain-containing protein,NRQTVNKFK,CD8
+C-type lectin domain-containing protein,RQTVNKFKRLTT,CD8
+C-type lectin domain-containing protein,QTVNKFKRLTTPAA,CD8
+Protein OPG161,SVEVNMENVKS,CD8
+Protein OPG161,EVNMENVKSE,CD8
+Protein OPG161,VNMENVKSED,CD8
+Protein OPG161,ENVKSEDNATS,CD8
+Protein OPG161,NVKSEDNATS,CD8
+Uncharacterized protein,DVITIFFIILATVA,CD8
+Uncharacterized protein,VITIFFIILATVA,CD8
+Uncharacterized protein,ITIFFIILA,CD8
+Uncharacterized protein,TIFFIILATV,CD8
+Uncharacterized protein,IFFIILATV,CD8
+SPV114 putative fusion protein,ENNKIIYPGDEE,CD8
+SPV114 putative fusion protein,NNKIIYPGD,CD8
+SPV114 putative fusion protein,NKIIYPGDEEE,CD8
+SPV114 putative fusion protein,KIIYPGDEEEVI,CD8
+SPV114 putative fusion protein,IIYPGDEEEVIDR,CD8
+Intermediate transcription factor 3 large subunit,LFIFLHDI,CD8
+Intermediate transcription factor 3 large subunit,FIFLHDIENT,CD8
+Intermediate transcription factor 3 large subunit,FLHDIENT,CD8
+Intermediate transcription factor 3 large subunit,LHDIENTYS,CD8
+Intermediate transcription factor 3 large subunit,HDIENTYSRTIFNF,CD4
+SPV109 DNA polymerase processivity-like factor,TTLDDLNM,CD8
+SPV109 DNA polymerase processivity-like factor,TLDDLNMLKDLLKL,CD4
+SPV109 DNA polymerase processivity-like factor,DDLNMLKDLLKLKK,CD4
+SPV109 DNA polymerase processivity-like factor,LNMLKDLLK,CD8
+SPV109 DNA polymerase processivity-like factor,NMLKDLLKL,CD8
+Uncharacterized protein,DTAGSKRKKRKP,CD8
+Uncharacterized protein,TAGSKRKKRK,CD8
+Uncharacterized protein,AGSKRKKRKPKTTI,CD8
+Uncharacterized protein,GSKRKKRKPKTTIK,CD8
+SPV106 putative phosphorylated IMV membrane protein,SYLSYYNMFS,CD4
+SPV106 putative phosphorylated IMV membrane protein,YLSYYNMFS,CD4
+SPV106 putative phosphorylated IMV membrane protein,LSYYNMFSD,CD4
+SPV106 putative phosphorylated IMV membrane protein,SYYNMFSDFNAG,CD4
+SPV106 putative phosphorylated IMV membrane protein,YYNMFSDF,CD8
+SPV105 putative myristylated membrane protein,YLSITNLKVEK,CD8
+SPV105 putative myristylated membrane protein,LSITNLKV,CD8
+SPV105 putative myristylated membrane protein,SITNLKVE,CD4
+SPV105 putative myristylated membrane protein,NLKVEKDPVNYNKK,CD8
+SPV105 putative myristylated membrane protein,LKVEKDPVNYN,CD8
+SPV103 putative virulence factor,TNYEPLILLGIICV,CD8
+SPV103 putative virulence factor,NYEPLILL,CD8
+SPV102 putative IMV membrane protein,VMNTIGNYF,CD8
+SPV101 putative IMV membrane protein,IADFIFMIICAVVI,CD8
+SPV101 putative IMV membrane protein,ADFIFMIICAVVIV,CD8
+SPV101 putative IMV membrane protein,DFIFMIIC,CD8
+SPV101 putative IMV membrane protein,FIFMIICAVVIV,CD8
+Protein A11,VPVTDITND,CD8
+Protein A11,TNDYTVTTF,CD8
+Protein A11,NDYTVTTFS,CD8
+Protein A11,DYTVTTFSED,CD8
+Protein A11,YTVTTFSEDGYPSN,CD8
+SPV098 putative virion core protein P4a,MPINTVTTL,CD8
+SPV098 putative virion core protein P4a,PINTVTTLDQLEDA,CD8
+SPV098 putative virion core protein P4a,TLDQLEDAEY,CD8
+SPV098 putative virion core protein P4a,DQLEDAEYL,CD4
+SPV098 putative virion core protein P4a,LEDAEYLFK,CD8
+Early transcription factor 82 kDa subunit,YVVSPQLVLYVGK,CD8
+Early transcription factor 82 kDa subunit,VSPQLVLYVGKG,CD8
+Early transcription factor 82 kDa subunit,SPQLVLYVG,CD8
+Early transcription factor 82 kDa subunit,PQLVLYVGKGQDIQ,CD8
+Early transcription factor 82 kDa subunit,QLVLYVGKGQDIQR,CD8
+Virion core protein,DKLRVLYDYFYN,CD8
+Virion core protein,KLRVLYDYFYNIS,CD8
+Virion core protein,LRVLYDYFYN,CD8
+Virion core protein,RVLYDYFYNI,CD8
+Virion core protein,VLYDYFYN,CD8
+Viral late gene transcription factor 3,NLKMCSGCSHN,CD8
+Viral late gene transcription factor 3,LKMCSGCSHN,CD8
+Viral late gene transcription factor 3,KMCSGCSHN,CD8
+Viral late gene transcription factor 3,MCSGCSHNGIVSEH,CD8
+Viral late gene transcription factor 3,CSGCSHNGIVSEH,CD8
+Viral late gene transcription factor 2,AKKVSLSNITISS,CD8
+Viral late gene transcription factor 2,KKVSLSNITI,CD8
+Viral late gene transcription factor 2,KVSLSNITISS,CD8
+Viral late gene transcription factor 2,SLSNITISSPKAVI,CD4
+Viral late gene transcription factor 2,NITISSPKAVIKQ,CD8
+62 kDa protein,NNTVINSIIGN,CD8
+62 kDa protein,NTVINSIIGNDDIV,CD8
+62 kDa protein,TVINSIIGNDDIV,CD8
+62 kDa protein,VINSIIGNDDIVKR,CD8
+62 kDa protein,NSIIGNDDIVKRH,CD8
+SPV084 mutT motif gene expression regulator,TEIFHSKNFS,CD8
+SPV084 mutT motif gene expression regulator,EIFHSKNFSY,CD8
+SPV084 mutT motif gene expression regulator,IFHSKNFSYINN,CD8
+SPV084 mutT motif gene expression regulator,FHSKNFSYINN,CD8
+SPV084 mutT motif gene expression regulator,SYINNNNTKLTKTY,CD8
+SPV083 mutT motif,VTPTLFET,CD8
+SPV083 mutT motif,TPTLFETDRE,CD8
+SPV083 mutT motif,PTLFETDREVI,CD8
+SPV083 mutT motif,TLFETDREVIC,CD8
+SPV083 mutT motif,LFETDREVICIE,CD8
+SPV080 putative NTPase,AGSLVNNEHIF,CD8
+SPV080 putative NTPase,GSLVNNEHIF,CD8
+SPV080 putative NTPase,SLVNNEHIF,CD8
+SPV080 putative NTPase,LVNNEHIFV,CD8
+SPV080 putative NTPase,VNNEHIFV,CD8
+Uracil-DNA glycosylase,KTIRVHYDPFI,CD4
+Uracil-DNA glycosylase,TIRVHYDPFIIEYH,CD8
+Uracil-DNA glycosylase,IRVHYDPFIIE,CD8
+Uracil-DNA glycosylase,VHYDPFIIEYH,CD8
+Uracil-DNA glycosylase,YDPFIIEYHE,CD8
+27 kDa core protein,DIVVIRDDIYPI,CD8
+27 kDa core protein,IVVIRDDIY,CD8
+27 kDa core protein,VVIRDDIYPIFN,CD8
+27 kDa core protein,VIRDDIYPIFN,CD8
+27 kDa core protein,IRDDIYPIFN,CD8
+SPV077 putative virion protein,IDIKKLTNII,CD8
+SPV077 putative virion protein,IKKLTNII,CD4
+SPV077 putative virion protein,KKLTNIIQNYNVV,CD4
+SPV077 putative virion protein,TNIIQNYNVVFPN,CD8
+SPV077 putative virion protein,NIIQNYNVVFPNEL,CD8
+Uncharacterized protein,DERLRTISMTFFSG,CD8
+Uncharacterized protein,RLRTISMT,CD8
+Uncharacterized protein,LRTISMTFF,CD8
+Uncharacterized protein,RTISMTFF,CD8
+Uncharacterized protein,TISMTFFSG,CD4
+SPV071 putative IMV envelope protein p35,TTPQKEIDIPV,CD8
+SPV071 putative IMV envelope protein p35,TPQKEIDIPVY,CD8
+SPV071 putative IMV envelope protein p35,PQKEIDIPVYV,CD8
+SPV071 putative IMV envelope protein p35,QKEIDIPVYVIPK,CD8
+SPV071 putative IMV envelope protein p35,KEIDIPVYV,CD8
+Uncharacterized protein,DKTTLTVNGIEL,CD4
+Uncharacterized protein,KTTLTVNGIELE,CD8
+Uncharacterized protein,TTLTVNGIELEYAR,CD8
+Uncharacterized protein,TLTVNGIELEY,CD8
+Uncharacterized protein,LTVNGIELEYAR,CD8
+Uncharacterized protein,DEYIYNFCDNH,CD8
+Uncharacterized protein,EYIYNFCDN,CD4
+Uncharacterized protein,YIYNFCDNHKDDI,CD8
+Uncharacterized protein,IYNFCDNHKDDIRC,CD8
+Uncharacterized protein,YNFCDNHKDDIRCK,CD8
+Uncharacterized protein,NGPNRYRNKHYEK,CD8
+Uncharacterized protein,NRYRNKHYE,CD8
+Uncharacterized protein,RYRNKHYEKQDKN,CD8
+Uncharacterized protein,YRNKHYEKQD,CD8
+Uncharacterized protein,RNKHYEKQD,CD8
+Uncharacterized protein,AEVLINKLRSIEY,CD4
+Uncharacterized protein,EVLINKLRSIEYEN,CD4
+Uncharacterized protein,VLINKLRSIEYE,CD4
+Uncharacterized protein,LINKLRSIEYE,CD8
+Uncharacterized protein,NKLRSIEY,CD8
+SPV057 putative myristylated IMV envelope protein,GAAASIQTTVNTLN,CD8
+SPV057 putative myristylated IMV envelope protein,AAASIQTTVNT,CD8
+SPV057 putative myristylated IMV envelope protein,AASIQTTVN,CD8
+SPV057 putative myristylated IMV envelope protein,ASIQTTVNTLNQKI,CD8
+SPV057 putative myristylated IMV envelope protein,SIQTTVNTLNQKIS,CD4
+SPV056 putative myristylated protein,YIIGNNSIITFL,CD8
+SPV056 putative myristylated protein,IIGNNSIITFL,CD8
+SPV056 putative myristylated protein,IGNNSIITFLQIE,CD8
+SPV056 putative myristylated protein,GNNSIITFLQ,CD8
+SPV056 putative myristylated protein,NNSIITFLQIENN,CD8
+Protein OPG091,DPITFIKSYVPK,CD8
+Protein OPG091,PITFIKSYVPKGAI,CD8
+Protein OPG091,ITFIKSYVPKGAI,CD8
+Protein OPG091,TFIKSYVPKGAII,CD8
+Protein OPG091,FIKSYVPKGAIIFI,CD8
+FEN1-like nuclease,GIKNLKTLLLETG,CD8
+FEN1-like nuclease,IKNLKTLLLETG,CD8
+FEN1-like nuclease,KNLKTLLLETGS,CD8
+FEN1-like nuclease,NLKTLLLE,CD8
+FEN1-like nuclease,LKTLLLETGSLYKI,CD8
+Glutaredoxin-2,KKTIILFGKPLCGV,CD8
+Glutaredoxin-2,KTIILFGKPLCG,CD8
+Glutaredoxin-2,TIILFGKPLC,CD8
+Glutaredoxin-2,IILFGKPL,CD8
+Glutaredoxin-2,ILFGKPLCG,CD8
+Late transcription elongation factor OPG087,PFRDLILFH,CD8
+Late transcription elongation factor OPG087,FRDLILFHLAKILL,CD8
+Late transcription elongation factor OPG087,RDLILFHL,CD8
+Late transcription elongation factor OPG087,LILFHLAKILLTEN,CD8
+Late transcription elongation factor OPG087,ILFHLAKILLTENK,CD8
+SPV045 putative virion core protein,ERYTDLVI,CD8
+SPV045 putative virion core protein,RYTDLVINKIPE,CD8
+SPV045 putative virion core protein,YTDLVINKI,CD8
+SPV045 putative virion core protein,TDLVINKI,CD8
+SPV045 putative virion core protein,DLVINKIP,CD8
+SPV043 putative IMV membrane protein,TINTKDMFSLVS,CD8
+SPV043 putative IMV membrane protein,KDMFSLVSLTLLTI,CD8
+Uncharacterized protein,DKLYAAIFGVFMTS,CD8
+Uncharacterized protein,KLYAAIFGVFMT,CD8
+Uncharacterized protein,LYAAIFGVF,CD8
+Uncharacterized protein,YAAIFGVF,CD8
+Uncharacterized protein,AAIFGVFMTSKDDD,CD8
+SPV039 putative DNA-binding virion core protein,EEADNQLVLNS,CD8
+SPV039 putative DNA-binding virion core protein,EADNQLVL,CD8
+SPV039 putative DNA-binding virion core protein,ADNQLVLNSISARA,CD8
+SPV039 putative DNA-binding virion core protein,DNQLVLNSI,CD8
+SPV039 putative DNA-binding virion core protein,QLVLNSIS,CD8
+Uncharacterized protein,PSYMYPKNARKVIS,CD8
+Uncharacterized protein,SYMYPKNAR,CD8
+Uncharacterized protein,PKNARKVISKII,CD8
+Uncharacterized protein,KNARKVISKII,CD8
+Uncharacterized protein,NARKVISKIISLQL,CD8
+Sulfhydryl oxidase,NPKYWGRAIWTVIF,CD8
+Sulfhydryl oxidase,PKYWGRAIWTVI,CD8
+Sulfhydryl oxidase,KYWGRAIWTVIFI,CD8
+Sulfhydryl oxidase,YWGRAIWTVIFI,CD8
+Sulfhydryl oxidase,WGRAIWTVIFIII,CD8
+Protein OPG070,GDDIYTES,CD8
+Protein OPG070,IYTESQKR,CD8
+Protein OPG070,YTESQKRN,CD8
+Protein OPG070,TESQKRNDD,CD8
+Protein OPG070,SQKRNDDQK,CD8
+Protein E6 homolog,FIRRKYLIYTID,CD8
+Protein E6 homolog,RRKYLIYTIDN,CD8
+Protein E6 homolog,RKYLIYTIDNRI,CD8
+Protein E6 homolog,KYLIYTIDNR,CD8
+Protein E6 homolog,YLIYTIDNRIDF,CD8
+SPV032 putative PKR inhibitor host range protein,CSDISNEDVYSLVK,CD8
+SPV032 putative PKR inhibitor host range protein,EDVYSLVK,CD8
+SPV032 putative PKR inhibitor host range protein,DVYSLVKQ,CD8
+SPV032 putative PKR inhibitor host range protein,YSLVKQEVDS,CD8
+SPV032 putative PKR inhibitor host range protein,SLVKQEVDSLPVGN,CD8
+SPV029 putative DNA-binding virion core phosphoprotein,HNPFITNTPFY,CD8
+SPV029 putative DNA-binding virion core phosphoprotein,FITNTPFYINTKE,CD8
+SPV029 putative DNA-binding virion core phosphoprotein,ITNTPFYINTKE,CD8
+SPV029 putative DNA-binding virion core phosphoprotein,TNTPFYINTKEGK,CD8
+Protein OPG061,DSAAIITSLIS,CD8
+Protein OPG061,SAAIITSL,CD8
+Protein OPG061,AAIITSLI,CD8
+Protein OPG061,AIITSLIS,CD8
+Protein OPG061,IITSLISLLDTSI,CD8
+Uncharacterized protein,FSDVYKEG,CD8
+Uncharacterized protein,DVYKEGIEL,CD8
+Uncharacterized protein,VYKEGIELCKEFDK,CD8
+SPV024 putative EEV maturation protein,NIIKSLKSYN,CD8
+SPV024 putative EEV maturation protein,IIKSLKSYNNNNLT,CD8
+SPV024 putative EEV maturation protein,IKSLKSYNNNN,CD8
+SPV024 putative EEV maturation protein,KSLKSYNNNNL,CD8
+SPV024 putative EEV maturation protein,SLKSYNNNNL,CD8
+Uncharacterized protein,FSKLISLFSKY,CD8
+Uncharacterized protein,SKLISLFSKYRKND,CD8
+Uncharacterized protein,LISLFSKY,CD8
+Uncharacterized protein,SLFSKYRKNDS,CD8
+Uncharacterized protein,LFSKYRKNDSHRYI,CD8
+SPV015 kelch-like protein,KQETYIDYNY,CD8
+SPV015 kelch-like protein,QETYIDYNY,CD8
+SPV015 kelch-like protein,ETYIDYNYIE,CD8
+SPV015 kelch-like protein,TYIDYNYIE,CD8
+SPV015 kelch-like protein,YIERLNAV,CD8
+Pyrin domain-containing protein,ELRYTIISV,CD8
+Pyrin domain-containing protein,LRYTIISVLER,CD8
+Pyrin domain-containing protein,RYTIISVLERLTP,CD8
+Pyrin domain-containing protein,YTIISVLERLT,CD8
+Pyrin domain-containing protein,TIISVLERLTPYQ,CD8
+SPV006 kelch-like protein,NSLLLRLHDFFK,CD8
+SPV006 kelch-like protein,SLLLRLHDFFKH,CD8
+SPV006 kelch-like protein,LLLRLHDFFKHGI,CD8
+SPV006 kelch-like protein,LLRLHDFFKHGIMC,CD4
+SPV006 kelch-like protein,LRLHDFFKHGIM,CD8
+SPV005 G protein-coupled CC chemokine receptor-like protein,SDCIFVFQIPFI,CD8
+SPV005 G protein-coupled CC chemokine receptor-like protein,DCIFVFQIPFI,CD8
+SPV005 G protein-coupled CC chemokine receptor-like protein,CIFVFQIPFIV,CD8
+SPV005 G protein-coupled CC chemokine receptor-like protein,IFVFQIPFI,CD8
+SPV005 G protein-coupled CC chemokine receptor-like protein,FVFQIPFIVY,CD8
+SPV025 putative EEV envelope protein,WWYFFSKSL,CD8
+SPV025 putative EEV envelope protein,WYFFSKSLPGAGC,CD8
+SPV025 putative EEV envelope protein,FFSKSLPG,CD8
+SPV025 putative EEV envelope protein,KSLPGAGCKIVE,CD8
+SPV025 putative EEV envelope protein,LPGAGCKIVE,CD8

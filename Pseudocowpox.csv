@@ -1,0 +1,451 @@
+Description,Epitope,Epitope Type
+mRNA-capping enzyme catalytic subunit,DAPSLDCMLAA,CD8
+mRNA-capping enzyme catalytic subunit,APSLDCMLAALAAK,CD8
+mRNA-capping enzyme catalytic subunit,PSLDCMLAAL,CD8
+mRNA-capping enzyme catalytic subunit,SLDCMLAALAAKAA,CD8
+mRNA-capping enzyme catalytic subunit,LDCMLAALAAKAA,CD4
+Entry-fusion complex protein OPG086,SWALELALF,CD4
+Entry-fusion complex protein OPG086,WALELALFA,CD8
+Entry-fusion complex protein OPG086,ELALFAAFLA,CD8
+Entry-fusion complex protein OPG086,LALFAAFLAAAY,CD8
+Entry-fusion complex protein OPG086,ALFAAFLAA,CD8
+Serine/threonine-protein kinase,ILARGGGRPRTP,CD8
+Serine/threonine-protein kinase,LARGGGRPRTPAA,CD8
+Serine/threonine-protein kinase,RGGGRPRTPAAA,CD8
+Serine/threonine-protein kinase,GGGRPRTPAAAA,CD8
+Serine/threonine-protein kinase,GGRPRTPAA,CD8
+Poly(A) polymerase catalytic subunit,APPVIEEY,CD8
+Poly(A) polymerase catalytic subunit,PVIEEYLG,CD8
+Poly(A) polymerase catalytic subunit,ARPSMERCV,CD8
+Poly(A) polymerase catalytic subunit,RPSMERCVLLRAQ,CD8
+Poly(A) polymerase catalytic subunit,PSMERCVLLRAQ,CD8
+DNA polymerase,LNWFENRS,CD8
+DNA polymerase,WFENRSNDSRFL,CD8
+DNA polymerase,FENRSNDSRFLFL,CD8
+DNA polymerase,ENRSNDSRFLFLKA,CD8
+DNA polymerase,NRSNDSRF,CD8
+Protein OPG079,KRATSKTTVAAS,CD8
+Protein OPG079,RATSKTTVAASR,CD8
+Protein OPG079,ATSKTTVAA,CD8
+Protein OPG079,TSKTTVAA,CD8
+Protein OPG079,SKTTVAAS,CD8
+RNA helicase NPH-II,ENHLPDMLMFP,CD8
+RNA helicase NPH-II,NHLPDMLMFP,CD8
+RNA helicase NPH-II,HLPDMLMFP,CD8
+RNA helicase NPH-II,LPDMLMFP,CD8
+RNA helicase NPH-II,PDMLMFPN,CD8
+Metalloendopeptidase,IVLDNGVRVFL,CD8
+Metalloendopeptidase,VLDNGVRVFL,CD8
+Metalloendopeptidase,LDNGVRVFLR,CD8
+Metalloendopeptidase,DNGVRVFLRP,CD8
+Metalloendopeptidase,NGVRVFLRPSM,CD8
+DNA-directed RNA polymerase 7 kDa subunit,VFPIVCSTCGR,CD8
+DNA-directed RNA polymerase 7 kDa subunit,FPIVCSTCGRDL,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,EGVEMEKPLLYFD,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,EMEKPLLYFDEIAG,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,MEKPLLYFDEIAG,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,PLLYFDEIAGARDY,CD8
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase,LLYFDEIAG,CD8
+DNA-directed RNA polymerase subunit,HNTRYLAK,CD8
+DNA-directed RNA polymerase subunit,NTRYLAKILCLK,CD8
+DNA-directed RNA polymerase subunit,RYLAKILCLK,CD8
+DNA-directed RNA polymerase subunit,YLAKILCLKAA,CD8
+DNA-directed RNA polymerase subunit,LAKILCLKAA,CD8
+DNA-directed RNA polymerase 147 kDa polypeptide,VVARVSYSL,CD8
+DNA-directed RNA polymerase 147 kDa polypeptide,RVSYSLYSQSEIS,CD4
+DNA-directed RNA polymerase 147 kDa polypeptide,SYSLYSQSEI,CD8
+DNA-directed RNA polymerase 147 kDa polypeptide,YSLYSQSEISATDV,CD4
+DNA-directed RNA polymerase 147 kDa polypeptide,SLYSQSEISA,CD4
+Tyrosine phosphatase,GNNSEWYA,CD8
+Tyrosine phosphatase,NNSEWYARLLLR,CD8
+Tyrosine phosphatase,NSEWYARLLLRCT,CD8
+Tyrosine phosphatase,WYARLLLRCTR,CD8
+Tyrosine phosphatase,ARLLLRCTRA,CD8
+DNA topoisomerase,RALHLADGKLF,CD8
+DNA topoisomerase,ALHLADGKLFFDK,CD8
+DNA topoisomerase,LHLADGKL,CD8
+DNA topoisomerase,HLADGKLFFDKE,CD8
+DNA topoisomerase,LADGKLFFDKELTQ,CD8
+DNA-directed RNA polymerase 18 kDa subunit,STFRQTVY,CD8
+DNA-directed RNA polymerase 18 kDa subunit,TFRQTVYLAV,CD8
+DNA-directed RNA polymerase 18 kDa subunit,FRQTVYLAVTLQP,CD4
+DNA-directed RNA polymerase 18 kDa subunit,VYLAVTLQPH,CD4
+DNA-directed RNA polymerase 18 kDa subunit,LAVTLQPHE,CD8
+Nucleoside triphosphatase I,TSAHAAYIDYAL,CD4
+Nucleoside triphosphatase I,SAHAAYIDYAL,CD4
+Nucleoside triphosphatase I,AHAAYIDYA,CD8
+Nucleoside triphosphatase I,AYIDYALR,CD8
+Nucleoside triphosphatase I,YIDYALRRTAHMPS,CD8
+DNA-directed RNA polymerase 19 kDa subunit,EESVNVEY,CD4
+DNA-directed RNA polymerase 19 kDa subunit,VNVEYADEDED,CD8
+DNA-directed RNA polymerase 19 kDa subunit,NVEYADEDEDE,CD8
+DNA-directed RNA polymerase 19 kDa subunit,VEYADEDEDEIEEY,CD8
+DNA-directed RNA polymerase 19 kDa subunit,EYADEDEDEI,CD8
+DNA-directed RNA polymerase,QALGYKFLL,CD8
+DNA-directed RNA polymerase,LGYKFLLP,CD8
+DNA-directed RNA polymerase,GYKFLLPDPKDD,CD8
+DNA-directed RNA polymerase,YKFLLPDPKD,CD8
+DNA-directed RNA polymerase,KFLLPDPKDDVYYR,CD8
+DNA-directed RNA polymerase 35 kDa subunit,ADADVPVV,CD8
+DNA-directed RNA polymerase 35 kDa subunit,DADVPVVG,CD8
+DNA-directed RNA polymerase 35 kDa subunit,ADVPVVGEA,CD8
+DNA-directed RNA polymerase 35 kDa subunit,DVPVVGEA,CD8
+DNA-directed RNA polymerase 35 kDa subunit,AALAVDLDP,CD8
+GM-CSF/IL-2 inhibition factor,ACLRVFLAVLALCG,CD8
+GM-CSF/IL-2 inhibition factor,CLRVFLAVLALCGS,CD8
+GM-CSF/IL-2 inhibition factor,LRVFLAVLA,CD8
+GM-CSF/IL-2 inhibition factor,RVFLAVLALCGS,CD8
+GM-CSF/IL-2 inhibition factor,VFLAVLALCGSVHS,CD8
+thiol oxidase,EPRFWGRAMWAV,CD8
+thiol oxidase,PRFWGRAM,CD8
+thiol oxidase,RFWGRAMWAVIF,CD8
+thiol oxidase,FWGRAMWAVIFI,CD8
+thiol oxidase,WGRAMWAVIFIVL,CD8
+IMV viral entry protein,ADVTTLSANGL,CD8
+IMV viral entry protein,DVTTLSANGLT,CD8
+IMV viral entry protein,VTTLSANGLTLE,CD8
+IMV viral entry protein,TTLSANGLTLEFAR,CD8
+IMV viral entry protein,TLSANGLT,CD8
+Uncharacterized protein,DEALRVAARV,CD8
+Uncharacterized protein,EALRVAARVVD,CD8
+Uncharacterized protein,ALRVAARVVDGLS,CD8
+Uncharacterized protein,LRVAARVVDGLS,CD8
+Uncharacterized protein,RVAARVVDGLSPLD,CD8
+Late virion membrane protein,RPCYVTVIKSIGG,CD8
+Late virion membrane protein,PCYVTVIKSI,CD8
+Late virion membrane protein,CYVTVIKSIGGL,CD8
+Late virion membrane protein,YVTVIKSIGGLALF,CD8
+Late virion membrane protein,VTVIKSIGGL,CD8
+Virion membrane protein,GLLDALLTV,CD8
+Virion membrane protein,LLDALLTVIV,CD8
+Virion membrane protein,LDALLTVIVISIV,CD8
+Virion membrane protein,DALLTVIVISI,CD8
+Virion membrane protein,ALLTVIVIS,CD8
+Uncharacterized protein,HPSLRRLLGALAL,CD8
+Uncharacterized protein,PSLRRLLGALAL,CD8
+Uncharacterized protein,SLRRLLGALALLA,CD8
+Uncharacterized protein,LRRLLGALAL,CD8
+Uncharacterized protein,RRLLGALALLALG,CD8
+Membrane protein,PPRTPRTPPTP,CD8
+Membrane protein,PRTPRTPPTPPR,CD8
+Membrane protein,TPRTPPTPPR,CD8
+Membrane protein,RTPPTPPR,CD8
+Membrane protein,TPPTPPRPPEP,CD8
+Ankyrin/F-box protein,AAGTELEFD,CD8
+Ankyrin/F-box protein,TELEFDISME,CD8
+Ankyrin/F-box protein,ELEFDISMES,CD8
+Ankyrin/F-box protein,LEFDISMESA,CD8
+Ankyrin/F-box protein,EFDISMESALYDYL,CD4
+Ankyrin/F-box protein,ASISVALYDYI,CD8
+Ankyrin/F-box protein,SISVALYDYIA,CD8
+Ankyrin/F-box protein,ISVALYDYIAD,CD8
+Ankyrin/F-box protein,SVALYDYIADAPE,CD4
+Ankyrin/F-box protein,VALYDYIADAPEV,CD4
+Ankyrin/F-box protein,DEEFERAEREA,CD8
+Ankyrin/F-box protein,EEFERAEREAA,CD8
+Ankyrin/F-box protein,EFERAEREA,CD4
+Ankyrin/F-box protein,FERAEREA,CD8
+Ankyrin/F-box protein,RAEREAAGA,CD8
+Apoptosis inhibitor,ANRNDIDSS,CD8
+Apoptosis inhibitor,NRNDIDSSAVVAAY,CD8
+Apoptosis inhibitor,RNDIDSSAVVAAYL,CD8
+Apoptosis inhibitor,NDIDSSAVVAAY,CD4
+Apoptosis inhibitor,DIDSSAVVAAYLAG,CD4
+Uncharacterized protein,SALTRLLGRF,CD8
+Uncharacterized protein,LLGRFGRRGQCVPA,CD8
+Uncharacterized protein,RFGRRGQCVPA,CD8
+Uncharacterized protein,FGRRGQCVP,CD8
+Uncharacterized protein,RGQCVPATG,CD8
+EEV maturation protein,GFWGKVCSGVSG,CD8
+EEV maturation protein,FWGKVCSGVSGRQ,CD8
+EEV maturation protein,WGKVCSGV,CD8
+EEV maturation protein,GKVCSGVSGRQAWD,CD8
+EEV maturation protein,KVCSGVSGR,CD8
+EEV envelope phospholipase,WPFSSIPVGADCR,CD8
+EEV envelope phospholipase,FSSIPVGADCRVVE,CD8
+EEV envelope phospholipase,SSIPVGADCRVVET,CD4
+EEV envelope phospholipase,SIPVGADCRVV,CD8
+EEV envelope phospholipase,IPVGADCRVV,CD8
+Uncharacterized protein,LIYGPRLDV,CD8
+Uncharacterized protein,PRLDVESLIDRMLE,CD4
+RING-H2 motif protein,PVKVKRWKL,CD8
+RING-H2 motif protein,VKVKRWKLA,CD8
+RING-H2 motif protein,KVKRWKLAVSCTLA,CD8
+RING-H2 motif protein,VKRWKLAVSC,CD8
+RING-H2 motif protein,KRWKLAVS,CD8
+Uncharacterized protein,EDELTRLVG,CD8
+Uncharacterized protein,DELTRLVG,CD8
+Uncharacterized protein,QAMEMELSVAH,CD4
+Uncharacterized protein,AMEMELSVA,CD4
+Uncharacterized protein,EMELSVAHMS,CD8
+DNA-binding phosphoprotein,ENGKVIQKK,CD8
+DNA-binding phosphoprotein,NGKVIQKKPFIIHV,CD8
+DNA-binding phosphoprotein,GKVIQKKPFI,CD8
+DNA-binding phosphoprotein,KVIQKKPFI,CD8
+DNA-binding phosphoprotein,IQKKPFIIHVDGV,CD8
+Uncharacterized protein,LLKSFVGAAVAAG,CD8
+Uncharacterized protein,LKSFVGAAV,CD8
+Uncharacterized protein,KSFVGAAVA,CD8
+Uncharacterized protein,SFVGAAVAAGGAE,CD8
+Uncharacterized protein,VGAAVAAGGAER,CD8
+DsRNA-binding interferon resistance protein,SDCASLIL,CD8
+DsRNA-binding interferon resistance protein,DCASLILD,CD8
+DsRNA-binding interferon resistance protein,CASLILDLLK,CD8
+DsRNA-binding interferon resistance protein,ASLILDLLKTCG,CD8
+DsRNA-binding interferon resistance protein,ILDLLKTCGDK,CD8
+Protein E6 homolog,DFVRRKYM,CD8
+Protein E6 homolog,FVRRKYMIHA,CD8
+Protein E6 homolog,VRRKYMIHAID,CD8
+Protein E6 homolog,RRKYMIHAIDR,CD8
+Protein E6 homolog,RKYMIHAID,CD8
+Protein OPG070,DSGRHDVDAAAQER,CD8
+Protein OPG070,RHDVDAAAQ,CD8
+Protein OPG070,DVDAAAQERTP,CD8
+Protein OPG070,AQERTPNQQ,CD8
+Protein OPG070,QERTPNQQTFFTKG,CD8
+NF-kB inhibitor,SDGYLSDDTRYLN,CD8
+NF-kB inhibitor,GYLSDDTRYLN,CD8
+NF-kB inhibitor,YLSDDTRYLNHSH,CD8
+NF-kB inhibitor,LSDDTRYLNHS,CD8
+NF-kB inhibitor,SDDTRYLNHSHGH,CD8
+Virion core protein,VFLETASGRTRIL,CD8
+Virion core protein,FLETASGRTRIL,CD8
+Virion core protein,LETASGRTRILY,CD8
+Virion core protein,ETASGRTRILYSAD,CD8
+Virion core protein,TASGRTRILYSADA,CD8
+DNA-binding protein,LLYPKKARD,CD8
+DNA-binding protein,YPKKARDAAAALA,CD8
+DNA-binding protein,PKKARDAAAALAK,CD8
+DNA-binding protein,KARDAAAALAKKN,CD8
+DNA-binding protein,AAALAKKNF,CD8
+Uncharacterized protein,SYPTSRRAAS,CD8
+Uncharacterized protein,YPTSRRAASLVRCL,CD8
+Uncharacterized protein,PTSRRAASLVRCLM,CD8
+Uncharacterized protein,TSRRAASLV,CD8
+Uncharacterized protein,SRRAASLV,CD8
+IMV membrane protein,KLYAGVFGS,CD8
+IMV membrane protein,LYAGVFGSF,CD8
+IMV protein,SRDLGVAVGATIL,CD8
+IMV protein,RDLGVAVGATILM,CD8
+IMV protein,DLGVAVGA,CD8
+IMV protein,LGVAVGATI,CD8
+Telomere-binding protein,NHFFKQIGA,CD8
+Telomere-binding protein,HFFKQIGAGVRK,CD8
+Telomere-binding protein,FFKQIGAGVR,CD8
+Telomere-binding protein,FKQIGAGVRKPATR,CD8
+Telomere-binding protein,KQIGAGVRKPATR,CD8
+Virion core protease,DKYTDLVV,CD8
+Virion core protease,YTDLVVSKIPELG,CD4
+Virion core protease,DLVVSKIPELGFTN,CD8
+Virion core protease,LVVSKIPE,CD8
+Virion core protease,VVSKIPELG,CD8
+Late transcription elongation factor OPG087,TFRELILFHAATH,CD8
+Late transcription elongation factor OPG087,FRELILFHAA,CD8
+Late transcription elongation factor OPG087,RELILFHAATHV,CD8
+Late transcription elongation factor OPG087,ELILFHAAT,CD8
+Late transcription elongation factor OPG087,LILFHAATH,CD8
+Glutaredoxin-2,ASDASPSASKT,CD8
+Glutaredoxin-2,SDASPSASK,CD8
+Glutaredoxin-2,SPSASKTTLIL,CD8
+Glutaredoxin-2,PSASKTTLILLGKP,CD8
+Glutaredoxin-2,ASKTTLILLGK,CD8
+FEN1-like nuclease,GIKNLKALLLS,CD8
+FEN1-like nuclease,IKNLKALLLSH,CD8
+FEN1-like nuclease,KNLKALLLSHG,CD8
+FEN1-like nuclease,NLKALLLSHG,CD8
+FEN1-like nuclease,LKALLLSHG,CD8
+Protein OPG091,RDFGLAARMA,CD8
+Protein OPG091,DFGLAARMAR,CD8
+Protein OPG091,FGLAARMARAIE,CD8
+Protein OPG091,GLAARMARAIEDV,CD4
+Protein OPG091,AARMARAIED,CD4
+Assembly protein G7,EPSRQAPRAG,CD8
+Assembly protein G7,PSRQAPRA,CD8
+Assembly protein G7,RQAPRAGARVFDAL,CD4
+Assembly protein G7,QAPRAGARVFDALV,CD4
+Assembly protein G7,APRAGARV,CD8
+Late transcription factor 1,TLRIKLEKL,CD8
+Late transcription factor 1,IKLEKLKQIVT,CD8
+Late transcription factor 1,KLEKLKQI,CD8
+Late transcription factor 1,LEKLKQIVT,CD4
+Late transcription factor 1,LKQIVTYFS,CD8
+Myristylated protein,GGSVSLPSRD,CD8
+Myristylated protein,GSVSLPSRDLP,CD8
+Myristylated protein,SVSLPSRDLPPPV,CD8
+Myristylated protein,VSLPSRDLPP,CD8
+Myristylated protein,SLPSRDLPPPVRTP,CD8
+IMV protein,GAAASIQTTVTTVS,CD8
+IMV protein,AAASIQTTVTTVSE,CD8
+IMV protein,AASIQTTVTTVSER,CD8
+IMV protein,ASIQTTVTTVSERI,CD8
+IMV protein,SIQTTVTTVSER,CD8
+Uncharacterized protein,EEKRGRAG,CD8
+Uncharacterized protein,EKRGRAGGG,CD8
+Uncharacterized protein,KRGRAGGGFTR,CD8
+Uncharacterized protein,RGRAGGGFTRFGA,CD8
+Uncharacterized protein,RAGGGFTRFGASR,CD8
+Core protein VP8,SLVDTEDL,CD8
+Core protein VP8,EDLAFCAGFPSF,CD8
+Core protein VP8,DLAFCAGFPSFDET,CD8
+Core protein VP8,LAFCAGFP,CD8
+Core protein VP8,AFCAGFPSF,CD8
+Membrane protein,AVPTPVVHLTP,CD8
+Membrane protein,PTPVVHLT,CD8
+Membrane protein,TPVVHLTP,CD8
+Membrane protein,PVVHLTPVFV,CD8
+Membrane protein,VVHLTPVFVEPT,CD4
+Late membrane protein,FFRRRAAPPTAP,CD8
+Late membrane protein,RRRAAPPTAP,CD8
+Late membrane protein,RRAAPPTAPGPDA,CD8
+Late membrane protein,RAAPPTAPGPDA,CD4
+Late membrane protein,APGPDAPDEEIY,CD8
+Immunodominant envelope protein,PPEITAYI,CD8
+Immunodominant envelope protein,EITAYIVGVTS,CD8
+Immunodominant envelope protein,ITAYIVGVTSGRG,CD8
+Immunodominant envelope protein,TAYIVGVT,CD8
+Immunodominant envelope protein,AYIVGVTSGR,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,RESILASIVPKIRA,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,ESILASIVPKIR,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,SILASIVPKI,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,ILASIVPKIRAY,CD8
+RNA polymerase-associated transcription-specificity factor RAP94,LASIVPKI,CD8
+Virion protein,EPAMHGDLH,CD8
+Virion protein,AMHGDLHA,CD8
+Virion protein,HGDLHALKSLVALA,CD8
+Virion protein,DLHALKSL,CD8
+Virion protein,LHALKSLVALAPSL,CD8
+Virion protein,GSIYYCGGTHLVAA,CD8
+Virion protein,SIYYCGGTHLVA,CD8
+Virion protein,IYYCGGTHLVAAAP,CD8
+Virion protein,YYCGGTHLVAAAPG,CD8
+Virion protein,YCGGTHLVA,CD8
+Uracil-DNA glycosylase,ATPAAAAGALRRAR,CD8
+Uracil-DNA glycosylase,TPAAAAGAL,CD8
+Uracil-DNA glycosylase,PAAAAGALRRA,CD8
+Uracil-DNA glycosylase,AAAAGALRRARL,CD8
+Uracil-DNA glycosylase,AAAGALRR,CD8
+NTPase,AAPICDNKHV,CD8
+NTPase,APICDNKHVF,CD8
+NTPase,PICDNKHVF,CD8
+NTPase,ICDNKHVF,CD8
+NTPase,CDNKHVFL,CD8
+Early transcription factor,NSDVIKLFAG,CD8
+Early transcription factor,SDVIKLFA,CD8
+Early transcription factor,DVIKLFAGHDES,CD8
+Early transcription factor,VIKLFAGHDES,CD8
+Early transcription factor,IKLFAGHDESV,CD8
+NTP pyrophosphohydrolase,RTYTSLLSKL,CD8
+NTP pyrophosphohydrolase,TYTSLLSKLLKSN,CD8
+NTP pyrophosphohydrolase,YTSLLSKLLKSNR,CD8
+NTP pyrophosphohydrolase,TSLLSKLLKSNRR,CD8
+NTP pyrophosphohydrolase,SLLSKLLK,CD8
+mRNA capping enzyme,DAIETVRRSI,CD8
+mRNA capping enzyme,AIETVRRSI,CD8
+mRNA capping enzyme,IETVRRSIREG,CD8
+mRNA capping enzyme,ETVRRSIREGL,CD8
+mRNA capping enzyme,TVRRSIRE,CD8
+62 kDa protein,SVVSLVGG,CD8
+62 kDa protein,GDDAVRRAS,CD8
+62 kDa protein,DDAVRRASVFTTD,CD8
+62 kDa protein,AVRRASVFT,CD8
+62 kDa protein,RRASVFTTD,CD8
+Viral late gene transcription factor 2,KRIALSRVDISA,CD8
+Viral late gene transcription factor 2,ALSRVDISA,CD8
+Thioredoxin-like protein,NGAWFAAYSVDLDP,CD4
+Thioredoxin-like protein,GAWFAAYSVDLDP,CD8
+Thioredoxin-like protein,AWFAAYSVD,CD8
+Virion core protein 4b,SPACASDFYNA,CD8
+Virion core protein 4b,PACASDFYNAT,CD8
+Virion core protein 4b,ACASDFYNATFDLV,CD4
+Virion core protein 4b,CASDFYNATFDL,CD4
+Virion core protein 4b,ASDFYNATFD,CD8
+Virion core protein,DLRRRFAEDLAQ,CD8
+Virion core protein,RRRFAEDLAQ,CD8
+Virion core protein,FAEDLAQTKLVL,CD8
+Virion core protein,LAQTKLVLA,CD8
+Virion core protein,AQTKLVLADTSSS,CD8
+Early transcription factor 82 kDa subunit,LYTVAPQLVVLVG,CD8
+Early transcription factor 82 kDa subunit,YTVAPQLVVLVGR,CD8
+Early transcription factor 82 kDa subunit,TVAPQLVVLVG,CD8
+Early transcription factor 82 kDa subunit,VAPQLVVLVGRH,CD8
+Early transcription factor 82 kDa subunit,APQLVVLVG,CD8
+Intermediate transcription factor 3 small subunit,PVPDMAAEADIDLG,CD8
+Intermediate transcription factor 3 small subunit,VPDMAAEADI,CD4
+Intermediate transcription factor 3 small subunit,DMAAEADIDL,CD4
+Intermediate transcription factor 3 small subunit,AEADIDLG,CD8
+Intermediate transcription factor 3 small subunit,GDVSVDATRAG,CD8
+Virion core protein P4a,TAPNVHMAL,CD8
+Virion core protein P4a,APNVHMALHHV,CD8
+Virion core protein P4a,PNVHMALHHVE,CD4
+Virion core protein P4a,VHMALHHVE,CD4
+Virion core protein P4a,HMALHHVEGA,CD4
+Virion formation protein,TAVPVTDIPG,CD8
+Virion formation protein,AVPVTDIPGDYG,CD8
+Virion formation protein,VPVTDIPGDYG,CD8
+Virion formation protein,PVTDIPGDYG,CD8
+Virion formation protein,VTDIPGDYGPTSF,CD8
+IMV membrane protein,DIFEALTS,CD8
+IMV membrane protein,IFEALTSYYSGV,CD4
+IMV membrane protein,FEALTSYYSGVLI,CD8
+IMV membrane protein,EALTSYYS,CD8
+IMV membrane protein,ALTSYYSG,CD8
+Myristylated protein,GDVVSKVEVIE,CD4
+Myristylated protein,DVVSKVEVI,CD8
+Myristylated protein,SKVEVIETPTP,CD4
+Myristylated protein,KVEVIETPTPGEY,CD8
+Myristylated protein,VEVIETPTPGEYA,CD8
+Phosphorylated IMV membrane protein,TYYNPVEEFSAGGV,CD4
+Phosphorylated IMV membrane protein,YYNPVEEFSAGGVQ,CD8
+Phosphorylated IMV membrane protein,YNPVEEFSAGGV,CD8
+Phosphorylated IMV membrane protein,VEEFSAGGVQDAEL,CD8
+Phosphorylated IMV membrane protein,EEFSAGGVQDA,CD8
+DNA helicase,FGGVQVDDKLY,CD8
+DNA helicase,GGVQVDDKLYAYL,CD8
+DNA helicase,VQVDDKLYAY,CD4
+DNA helicase,QVDDKLYAYL,CD8
+DNA helicase,DDKLYAYLKK,CD8
+Intermediate transcription factor 3 large subunit,LALFEFLRSVEDCY,CD8
+Intermediate transcription factor 3 large subunit,ALFEFLRSVE,CD8
+Intermediate transcription factor 3 large subunit,LFEFLRSVEDCY,CD8
+Intermediate transcription factor 3 large subunit,FEFLRSVEDC,CD8
+Intermediate transcription factor 3 large subunit,EFLRSVED,CD8
+A-type inclusion protein,EKLVEEFRKFV,CD8
+A-type inclusion protein,KLVEEFRKFVS,CD8
+A-type inclusion protein,VEEFRKFVSATWK,CD8
+A-type inclusion protein,EEFRKFVSATWK,CD8
+A-type inclusion protein,FRKFVSAT,CD8
+Uncharacterized protein,SHLQILTSFGQI,CD4
+Uncharacterized protein,SFGQIYAPDEARL,CD8
+Uncharacterized protein,FGQIYAPDEARLR,CD8
+Uncharacterized protein,GQIYAPDEA,CD8
+Uncharacterized protein,QIYAPDEA,CD8
+Chemokine-binding protein,RAFVLLLAL,CD8
+Chemokine-binding protein,AFVLLLALVG,CD8
+Chemokine-binding protein,FVLLLALVGAFA,CD8
+Chemokine-binding protein,VLLLALVGAFAHAV,CD8
+Chemokine-binding protein,LLLALVGAFAHAV,CD8
+Uncharacterized protein,YPLVVIAII,CD8
+Uncharacterized protein,PLVVIAIILAVIC,CD8
+Uncharacterized protein,LVVIAIILAVI,CD8
+Uncharacterized protein,VVIAIILAVICL,CD8
+Uncharacterized protein,VIAIILAV,CD8
+Virion core protein,PLFRKCMVSRAIVK,CD8
+Virion core protein,LFRKCMVSRA,CD8
+Virion core protein,FRKCMVSRAIVKE,CD8
+Virion core protein,RKCMVSRA,CD8
+Virion core protein,KCMVSRAI,CD8
+Uncharacterized protein,AGVRSCHQRGT,CD8
+Uncharacterized protein,GVRSCHQRGTPTA,CD8
+Uncharacterized protein,VRSCHQRG,CD8
+Uncharacterized protein,CHQRGTPT,CD8
+Uncharacterized protein,HQRGTPTAET,CD8
+Protein A51,ANRLVFLD,CD8
+Protein A51,NRLVFLDP,CD8
+Protein A51,RLVFLDPET,CD8
+Protein A51,LVFLDPETLAEADG,CD8
+Protein A51,LDPETLAEADGIP,CD4
+Uncharacterized protein,DPAGQRLRGPGP,CD8
+Uncharacterized protein,PAGQRLRGPG,CD8
+Uncharacterized protein,AGQRLRGPGP,CD8
+Uncharacterized protein,RLRGPGPWRLNP,CD8
+Uncharacterized protein,LRGPGPWR,CD8
